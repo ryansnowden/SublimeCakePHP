@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[\$this->${1:Model}->find('$2')]]></content>
+	<tabTrigger>find</tabTrigger>
+	<scope>source.php</scope>
+	<description>CakePHP: $this->Model->find()</description>
+</snippet>
